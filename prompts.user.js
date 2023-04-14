@@ -5,6 +5,7 @@
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
+// @resource     jsonData https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.json
 // @require      https://github.com/doggeddog/tribute/raw/master/dist/tribute.js
 // @match        https://waaao.com/*
 // @match        http://127.0.0.1:*/*
@@ -14,54 +15,51 @@
 // @run-at       document-end
 // ==/UserScript==
 
-function GM_addStyle(css) {
-  const style = document.createElement('style')
-  style.type = 'text/css'
-  style.textContent = css
-  document.documentElement.appendChild(style)
-  return style
-}
+var jsonData = JSON.parse(GM_getResourceText("jsonData"));
+var textArea
 
 function load() {
+  textArea = document.getElementsByTagName("textarea")[0];
   var tribute = new Tribute({
     trigger: '/',
-    // menuContainer: document.getElementById('content'),
-    values: [
-      {
-        key: "Jordan Humphreys",
-        value: "Jordan Humphreys",
-        email: "getstarted@zurb.com"
-      },
-      {
-        key: "Sir Walter Riley",
-        value: "Sir Walter Riley",
-        email: "getstarted+riley@zurb.com"
-      },
-      {
-        key: "Joachim",
-        value: "Joachim",
-        email: "getstarted+joachim@zurb.com"
-      }
-    ],
+    values: jsonData,
     selectTemplate: function (item) {
       if (typeof item === "undefined") return null;
-      if (this.range.isContentEditable(this.current.element)) {
-        return (
-          '<span contenteditable="false"><a href="http://zurb.com" target="_blank" title="' +
-          item.original.email +
-          '">' +
-          item.original.value +
-          "</a></span>"
-        );
-      }
-
-      return "@" + item.original.value;
+      return item.original.prompt;
     },
     requireLeadingSpace: false
   });
-  var textArea = document.getElementsByTagName("textarea")[0];
   tribute.attach(textArea);
-  console.log(textArea)
+
+  var tributeCN = new Tribute({
+    trigger: '#',
+    values: jsonData,
+    selectTemplate: function (item) {
+      if (typeof item === "undefined") return null;
+      if (item.original.prompt_cn) {
+        return item.original.prompt_cn;
+      } else {
+        return item.original.prompt;
+      }
+    },
+    menuItemTemplate: function (item) {
+      if (item.original.title) {
+        return item.original.title + " " + item.original.key;
+      } else {
+        return item.original.key;
+      }
+
+    },
+    lookup: function (item, mentionText) {
+      if (item.pinyin && item.pinyin.length === 0) {
+        return item.key + " " + item.title;
+      } else {
+        return item.key + " " + item.title + " " + item.pinyin.join(" ");
+      }
+    },
+    requireLeadingSpace: false
+  });
+  tributeCN.attach(textArea);
 }
 
 (function () {

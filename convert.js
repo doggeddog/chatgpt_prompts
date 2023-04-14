@@ -1,5 +1,7 @@
 const fs = require('fs');
 const Papa = require('papaparse');
+const pinyin = require('pinyin');
+
 const Users = [
   {
     title: '英语翻译或修改',
@@ -1898,6 +1900,17 @@ function findMatch(text) {
   return null;
 }
 
+function convertPinyin(hanzi) {
+  let pinyinNames = pinyin.pinyin(hanzi, { style: pinyin.pinyin.STYLE_NORMAL, });
+  return flatten(pinyinNames)
+}
+
+function flatten(arr) {
+  return arr.reduce((result, item) => {
+    return result.concat(Array.isArray(item) ? flatten(item) : item);
+  }, []);
+}
+
 function build(descKey) {
   const tagsSet = new Set(Users.map((prompt) => prompt.tags).flat());
   let mainList = []
@@ -1936,7 +1949,7 @@ function convertCSV() {
   return results.data;
 }
 
-function main() {
+function convert() {
   let mainList = []
   var data = convertCSV();
   for (const item of data) {
@@ -1952,6 +1965,9 @@ function main() {
       newItem["prompt_cn"] = match.descn
       newItem["desc"] = match.remark
       newItem["tags"] = match.tags
+      if (match.remark) {
+        newItem["pinyin"] = convertPinyin(match.title)
+      }
     }
     mainList.push(newItem)
   }
@@ -1960,4 +1976,7 @@ function main() {
   //fs.writeFileSync(`personal.json`, JSON.stringify(englishPrompts, null, 2))
 }
 
+function main() {
+  convert();
+}
 main();

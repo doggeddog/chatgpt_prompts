@@ -7,6 +7,11 @@
     "desc": "Linux Terminal",
     "tags": [
       "interpreter"
+    ],
+    "pinyin": [
+      "Linux ",
+      "zhong",
+      "duan"
     ]
   },
   {
@@ -18,6 +23,15 @@
     "tags": [
       "favorite",
       "language"
+    ],
+    "pinyin": [
+      "ying",
+      "yu",
+      "fan",
+      "yi",
+      "huo",
+      "xiu",
+      "gai"
     ]
   },
   {
@@ -28,6 +42,13 @@
     "desc": "Position Interviewer",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "zhi",
+      "wei",
+      "mian",
+      "shi",
+      "guan"
     ]
   },
   {
@@ -38,6 +59,12 @@
     "desc": "JavaScript Console",
     "tags": [
       "interpreter"
+    ],
+    "pinyin": [
+      "JavaScript ",
+      "kong",
+      "zhi",
+      "tai"
     ]
   },
   {
@@ -52,6 +79,14 @@
     "desc": "用你指定语言字母来英语注音，比如汉语拼音。",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "ying",
+      "yu",
+      "fa",
+      "yin",
+      "zhu",
+      "shou"
     ]
   },
   {
@@ -62,6 +97,14 @@
     "desc": "英语交谈对话，回复会限制在 100 字以内。输入中的语法错误、错别字和事实性错误将被纠正。",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "ying",
+      "yu",
+      "dui",
+      "hua",
+      "lian",
+      "xi"
     ]
   },
   {
@@ -72,6 +115,12 @@
     "desc": "根据参观需求，制定旅游指南",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "lv",
+      "you",
+      "zhi",
+      "nan"
     ]
   },
   {
@@ -82,6 +131,12 @@
     "desc": "判断输入的句子在 ChatGPT 数据库中是否存在。",
     "tags": [
       "text"
+    ],
+    "pinyin": [
+      "chao",
+      "xi",
+      "jian",
+      "cha"
     ]
   },
   {
@@ -96,6 +151,12 @@
     "desc": "针对产品推广，制定包含目标受众、口号、推广渠道等内容的广告方案。",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "guang",
+      "gao",
+      "fang",
+      "an"
     ]
   },
   {
@@ -106,6 +167,11 @@
     "desc": "输入一个主题和目标受众，输出与之相关的故事。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "jiang",
+      "gu",
+      "shi"
     ]
   },
   {
@@ -116,6 +182,12 @@
     "desc": "根据提供的笔记信息，模拟足球比赛进程并进行解说。",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "zu",
+      "qiu",
+      "jie",
+      "shuo"
     ]
   },
   {
@@ -126,6 +198,11 @@
     "desc": "输入一个话题，输出基于该话题的幽默脱口秀，并尽量融入日常元素。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "tuo",
+      "kou",
+      "xiu"
     ]
   },
   {
@@ -136,6 +213,12 @@
     "desc": "Motivational Coach",
     "tags": [
       "speech"
+    ],
+    "pinyin": [
+      "li",
+      "zhi",
+      "jiao",
+      "lian"
     ]
   },
   {
@@ -146,6 +229,11 @@
     "desc": "Composer",
     "tags": [
       "music"
+    ],
+    "pinyin": [
+      "zuo",
+      "qu",
+      "jia"
     ]
   },
   {
@@ -157,6 +245,10 @@
     "tags": [
       "speech",
       "mind"
+    ],
+    "pinyin": [
+      "bian",
+      "shou"
     ]
   },
   {
@@ -167,6 +259,12 @@
     "desc": "作为一名辩论教练，向团队教授有效的辩论策略。",
     "tags": [
       "speech"
+    ],
+    "pinyin": [
+      "bian",
+      "lun",
+      "jiao",
+      "lian"
     ]
   },
   {
@@ -177,6 +275,10 @@
     "desc": "根据主题创作一个包含故事背景、人物以及对话的剧本。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "bian",
+      "ju"
     ]
   },
   {
@@ -187,6 +289,11 @@
     "desc": "根据故事类型输出小说，例如奇幻、浪漫或历史等类型。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "xiao",
+      "shuo",
+      "jia"
     ]
   },
   {
@@ -197,6 +304,13 @@
     "desc": "从情节、表演、摄影、导演、音乐等方面评论电影。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "dian",
+      "ying",
+      "ping",
+      "lun",
+      "①"
     ]
   },
   {
@@ -207,6 +321,12 @@
     "desc": "Relationship Coach",
     "tags": [
       "social"
+    ],
+    "pinyin": [
+      "guan",
+      "xi",
+      "jiao",
+      "lian"
     ]
   },
   {
@@ -217,6 +337,10 @@
     "desc": "根据话题或主题输出诗句。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "shi",
+      "ren"
     ]
   },
   {
@@ -227,6 +351,12 @@
     "desc": "Rapper",
     "tags": [
       "music"
+    ],
+    "pinyin": [
+      "shuo",
+      "chang",
+      "ge",
+      "shou"
     ]
   },
   {
@@ -237,6 +367,13 @@
     "desc": "Motivational Speaker",
     "tags": [
       "speech"
+    ],
+    "pinyin": [
+      "li",
+      "zhi",
+      "yan",
+      "jiang",
+      "zhe"
     ]
   },
   {
@@ -247,6 +384,12 @@
     "desc": "将哲学理论或问题简单化，并与日常生活联系起来。",
     "tags": [
       "philosophy"
+    ],
+    "pinyin": [
+      "zhe",
+      "xue",
+      "jiao",
+      "shi"
     ]
   },
   {
@@ -257,6 +400,11 @@
     "desc": "对哲学主题进行探讨。",
     "tags": [
       "philosophy"
+    ],
+    "pinyin": [
+      "zhe",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -267,6 +415,12 @@
     "desc": "用易于理解的术语解释数学概念。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "shu",
+      "xue",
+      "lao",
+      "shi"
     ]
   },
   {
@@ -277,6 +431,12 @@
     "desc": "提供写作改进方案和建议，但不能直接修改文档。（个人感觉只适合老师批改作业）",
     "tags": [
       "write"
+    ],
+    "pinyin": [
+      "xie",
+      "zuo",
+      "jian",
+      "yi"
     ]
   },
   {
@@ -287,6 +447,13 @@
     "desc": "基于产品描述、项目目标和受众群体，提供界面设计建议，以提高用户体验。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "qian",
+      "duan",
+      "：UX/UI ",
+      "jie",
+      "mian"
     ]
   },
   {
@@ -297,6 +464,14 @@
     "desc": "根据网络环境，提供网络安全建议。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "wang",
+      "luo",
+      "an",
+      "quan",
+      "zhuan",
+      "jia"
     ]
   },
   {
@@ -307,6 +482,12 @@
     "desc": "Recruiter",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "zhao",
+      "pin",
+      "ren",
+      "yuan"
     ]
   },
   {
@@ -317,6 +498,12 @@
     "desc": "根据当前的状况和目标，提供达成目标的计划和建议。",
     "tags": [
       "social"
+    ],
+    "pinyin": [
+      "sheng",
+      "huo",
+      "jiao",
+      "lian"
     ]
   },
   {
@@ -327,6 +514,12 @@
     "desc": "介绍词汇的起源，适用于中文、英文和其他主流语言。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "ci",
+      "yuan",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -337,6 +530,12 @@
     "desc": "围绕新闻故事或主题，讨论其中问题的潜在解决方案和观点。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "xin",
+      "wen",
+      "ping",
+      "lun"
     ]
   },
   {
@@ -347,6 +546,11 @@
     "desc": "根据要求提供可执行的魔术技巧，例如「如何让手表消失」。",
     "tags": [
       "interesting"
+    ],
+    "pinyin": [
+      "mo",
+      "shu",
+      "shi"
     ]
   },
   {
@@ -357,6 +561,12 @@
     "desc": "基于你的技能、兴趣和经验，提供相关岗位建议。",
     "tags": [
       "life"
+    ],
+    "pinyin": [
+      "zhi",
+      "ye",
+      "gu",
+      "wen"
     ]
   },
   {
@@ -367,6 +577,14 @@
     "desc": "Pet Behaviorist",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "chong",
+      "wu",
+      "hang",
+      "wei",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -377,6 +595,12 @@
     "desc": "通过输入身高、体重、年龄等指标，来制定健身方案。",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "jian",
+      "shen",
+      "jiao",
+      "lian"
     ]
   },
   {
@@ -387,6 +611,14 @@
     "desc": "Mental Health Adviser",
     "tags": [
       "social"
+    ],
+    "pinyin": [
+      "xin",
+      "li",
+      "jian",
+      "kang",
+      "gu",
+      "wen"
     ]
   },
   {
@@ -397,6 +629,14 @@
     "desc": "在指定区域寻找符合要求的房产",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "fang",
+      "di",
+      "chan",
+      "jing",
+      "ji",
+      "ren"
     ]
   },
   {
@@ -407,6 +647,12 @@
     "desc": "为活动制定后勤计划。",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "hou",
+      "qin",
+      "ren",
+      "yuan"
     ]
   },
   {
@@ -417,6 +663,12 @@
     "desc": "Dentist",
     "tags": [
       "doctor"
+    ],
+    "pinyin": [
+      "ya",
+      "ke",
+      "yi",
+      "sheng"
     ]
   },
   {
@@ -427,6 +679,15 @@
     "desc": "从网页开发和设计的角度，提供界面和功能建议，旨在提高用户体验。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "qian",
+      "duan",
+      "：",
+      "wang",
+      "ye",
+      "she",
+      "ji"
     ]
   },
   {
@@ -437,6 +698,11 @@
     "desc": "辅助诊断",
     "tags": [
       "doctor"
+    ],
+    "pinyin": [
+      "AI ",
+      "yi",
+      "sheng"
     ]
   },
   {
@@ -447,6 +713,10 @@
     "desc": "根据治疗对象提出建议",
     "tags": [
       "doctor"
+    ],
+    "pinyin": [
+      "yi",
+      "sheng"
     ]
   },
   {
@@ -457,6 +727,11 @@
     "desc": "Accountant",
     "tags": [
       "finance"
+    ],
+    "pinyin": [
+      "hui",
+      "ji",
+      "shi"
     ]
   },
   {
@@ -467,6 +742,11 @@
     "desc": "Chef",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "chu",
+      "shi",
+      "②"
     ]
   },
   {
@@ -477,6 +757,12 @@
     "desc": "Automobile Mechanic",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "qi",
+      "che",
+      "xiu",
+      "li"
     ]
   },
   {
@@ -487,6 +773,12 @@
     "desc": "为你的画画、作曲、照相等提供意见和建议。",
     "tags": [
       "interesting"
+    ],
+    "pinyin": [
+      "yi",
+      "shu",
+      "gu",
+      "wen"
     ]
   },
   {
@@ -497,6 +789,13 @@
     "desc": "Financial Analyst",
     "tags": [
       "finance"
+    ],
+    "pinyin": [
+      "jin",
+      "rong",
+      "fen",
+      "xi",
+      "shi"
     ]
   },
   {
@@ -507,6 +806,12 @@
     "desc": "Investment Manager",
     "tags": [
       "finance"
+    ],
+    "pinyin": [
+      "tou",
+      "zi",
+      "jing",
+      "li"
     ]
   },
   {
@@ -517,6 +822,11 @@
     "desc": "Tea-Taster",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "cha",
+      "yi",
+      "shi"
     ]
   },
   {
@@ -527,6 +837,13 @@
     "desc": "Interior Decorator",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "shi",
+      "nei",
+      "zhuang",
+      "shi",
+      "shi"
     ]
   },
   {
@@ -537,6 +854,10 @@
     "desc": "提供花卉建议",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "hua",
+      "jiang"
     ]
   },
   {
@@ -547,6 +868,14 @@
     "desc": "为你的生活/工作提供建议和提示，比如如何改善人际关系。",
     "tags": [
       "life"
+    ],
+    "pinyin": [
+      "sheng",
+      "huo",
+      "zi",
+      "zhu",
+      "bai",
+      "ke"
     ]
   },
   {
@@ -557,6 +886,12 @@
     "desc": "根据你想要做的事情（比如周年庆祝），提供有趣而独特的活动和建议。",
     "tags": [
       "life"
+    ],
+    "pinyin": [
+      "qu",
+      "wei",
+      "jian",
+      "yi"
     ]
   },
   {
@@ -567,6 +902,11 @@
     "desc": "根据要求输出鼓舞人心的名言和有意义的格言。",
     "tags": [
       "write"
+    ],
+    "pinyin": [
+      "ge",
+      "yan",
+      "shu"
     ]
   },
   {
@@ -577,6 +917,14 @@
     "desc": "Text Based Adventure Game",
     "tags": [
       "games"
+    ],
+    "pinyin": [
+      "wen",
+      "ben",
+      "mao",
+      "xian",
+      "you",
+      "xi"
     ]
   },
   {
@@ -591,6 +939,13 @@
     "desc": "根据关键词生成多种头衔和职位。",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "tou",
+      "xian",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -601,6 +956,12 @@
     "desc": "Statistician",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "tong",
+      "ji",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -612,6 +973,14 @@
     "tags": [
       "favorite",
       "ai"
+    ],
+    "pinyin": [
+      "ti",
+      "shi",
+      "ci",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -622,6 +991,14 @@
     "desc": "向初学者介绍 Python 编程语言入门知识。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "suan",
+      "fa",
+      "ru",
+      "men",
+      "jiang",
+      "jie"
     ]
   },
   {
@@ -632,6 +1009,11 @@
     "desc": "SQL terminal",
     "tags": [
       "interpreter"
+    ],
+    "pinyin": [
+      "SQL ",
+      "zhong",
+      "duan"
     ]
   },
   {
@@ -642,6 +1024,11 @@
     "desc": "Dietitian",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "ying",
+      "yang",
+      "shi"
     ]
   },
   {
@@ -652,6 +1039,12 @@
     "desc": "Psychologist",
     "tags": [
       "social"
+    ],
+    "pinyin": [
+      "xin",
+      "li",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -662,6 +1055,15 @@
     "desc": "根据公司名和项目描述，提供短而独特的域名建议。域名长度最长 7-8 个字符。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "zhi",
+      "neng",
+      "yu",
+      "ming",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -672,6 +1074,12 @@
     "desc": "从优点、缺点、功能、同类对比等角度对技术和硬件进行评价。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "ke",
+      "ji",
+      "ping",
+      "lun"
     ]
   },
   {
@@ -682,6 +1090,13 @@
     "desc": "汇总与项目相关的 GitHub、StackOverflow 和 Hacker News 上的相关数据。但此方法对于国内项目不适用，并且统计精度一般。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "kai",
+      "fa",
+      "zhe",
+      "shu",
+      "ju"
     ]
   },
   {
@@ -692,6 +1107,11 @@
     "desc": "根据主题撰写内容翔实、有信服力的论文。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "lun",
+      "wen",
+      "①"
     ]
   },
   {
@@ -702,6 +1122,12 @@
     "desc": "从 IT 架构师的角度，设计系统方案。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "jia",
+      "gou",
+      "shi",
+      " IT"
     ]
   },
   {
@@ -712,6 +1138,15 @@
     "desc": "扮演疯子，回复没有意义和逻辑的句子。",
     "tags": [
       "text"
+    ],
+    "pinyin": [
+      "sui",
+      "ji",
+      "hui",
+      "fu",
+      "：",
+      "feng",
+      "zi"
     ]
   },
   {
@@ -722,6 +1157,12 @@
     "desc": "煤气灯效应，情感控制方总会让被操纵方产生焦虑不安的感觉，质疑自己总是错的一方，或者为什么对方明明很好很优秀，自己却总是开心不起来。ChatGPT 会扮演情绪操控者，而你是被操控的一方。",
     "tags": [
       "social"
+    ],
+    "pinyin": [
+      "qing",
+      "xu",
+      "cao",
+      "kong"
     ]
   },
   {
@@ -732,6 +1173,13 @@
     "desc": "发现语言逻辑上的漏洞，比如为什么名人推荐的洗发水不一定可信。",
     "tags": [
       "mind"
+    ],
+    "pinyin": [
+      "miu",
+      "wu",
+      "fa",
+      "xian",
+      "zhe"
     ]
   },
   {
@@ -742,6 +1190,12 @@
     "desc": "对提交的出版物文章进行审查和评论。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "qi",
+      "kan",
+      "ping",
+      "shen"
     ]
   },
   {
@@ -752,6 +1206,11 @@
     "desc": "DIY 家居和手工制品。",
     "tags": [
       "interesting"
+    ],
+    "pinyin": [
+      "DIY ",
+      "zhuan",
+      "jia"
     ]
   },
   {
@@ -762,6 +1221,16 @@
     "desc": "Social Media Influencer",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "she",
+      "jiao",
+      "mei",
+      "ti",
+      "ying",
+      "xiang",
+      "zhe",
+      "/KOL"
     ]
   },
   {
@@ -772,6 +1241,13 @@
     "desc": "使用苏格拉底式的提问方法探讨哲学话题。",
     "tags": [
       "philosophy"
+    ],
+    "pinyin": [
+      "su",
+      "ge",
+      "la",
+      "di",
+      "①"
     ]
   },
   {
@@ -782,6 +1258,13 @@
     "desc": "使用苏格拉底方法来质疑对方的观点或论断。",
     "tags": [
       "philosophy"
+    ],
+    "pinyin": [
+      "su",
+      "ge",
+      "la",
+      "di",
+      "②"
     ]
   },
   {
@@ -792,6 +1275,12 @@
     "desc": "为教科书、课程和讲义创建课程计划。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "jiao",
+      "an",
+      "ce",
+      "hua"
     ]
   },
   {
@@ -802,6 +1291,11 @@
     "desc": "Yogi",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "yu",
+      "qie",
+      "shi"
     ]
   },
   {
@@ -812,6 +1306,11 @@
     "desc": "根据主题撰写内容翔实、有信服力的论文。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "lun",
+      "wen",
+      "②"
     ]
   },
   {
@@ -822,6 +1321,14 @@
     "desc": "Social Media Manager",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "she",
+      "jiao",
+      "mei",
+      "ti",
+      "jing",
+      "li"
     ]
   },
   {
@@ -832,6 +1339,11 @@
     "desc": "Elocutionist",
     "tags": [
       "speech"
+    ],
+    "pinyin": [
+      "yan",
+      "shuo",
+      "jia"
     ]
   },
   {
@@ -842,6 +1354,15 @@
     "desc": "Scientific DatVisualizer",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "ke",
+      "xue",
+      "shu",
+      "ju",
+      "ke",
+      "shi",
+      "hua"
     ]
   },
   {
@@ -852,6 +1373,12 @@
     "desc": "Car Navigation System",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "qi",
+      "che",
+      "dao",
+      "hang"
     ]
   },
   {
@@ -862,6 +1389,13 @@
     "desc": "为患者提供催眠治疗方案",
     "tags": [
       "doctor"
+    ],
+    "pinyin": [
+      "cui",
+      "mian",
+      "zhi",
+      "liao",
+      "shi"
     ]
   },
   {
@@ -872,6 +1406,12 @@
     "desc": "使用史实资料分析历史主题。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "li",
+      "shi",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -882,6 +1422,11 @@
     "desc": "从占星学家的角度来解读周遭的事。",
     "tags": [
       "interesting"
+    ],
+    "pinyin": [
+      "zhan",
+      "xing",
+      "jia"
     ]
   },
   {
@@ -892,6 +1437,13 @@
     "desc": "从情节、表演、摄影、导演、音乐等方面评论电影。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "dian",
+      "ying",
+      "ping",
+      "lun",
+      "②"
     ]
   },
   {
@@ -902,6 +1454,15 @@
     "desc": "Classical Music Composer",
     "tags": [
       "music"
+    ],
+    "pinyin": [
+      "gu",
+      "dian",
+      "yin",
+      "le",
+      "zuo",
+      "qu",
+      "jia"
     ]
   },
   {
@@ -912,6 +1473,12 @@
     "desc": "引用已有数据资料，用新闻的写作风格输出主题文章。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "xin",
+      "wen",
+      "ji",
+      "zhe"
     ]
   },
   {
@@ -922,6 +1489,15 @@
     "desc": "Digital Art Gallery Guide",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "shu",
+      "zi",
+      "yi",
+      "shu",
+      "guan",
+      "dao",
+      "you"
     ]
   },
   {
@@ -932,6 +1508,14 @@
     "desc": "教授演讲策略与技巧。",
     "tags": [
       "speech"
+    ],
+    "pinyin": [
+      "gong",
+      "gong",
+      "yan",
+      "jiang",
+      "jiao",
+      "lian"
     ]
   },
   {
@@ -942,6 +1526,11 @@
     "desc": "Makeup Artist",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "hua",
+      "zhuang",
+      "shi"
     ]
   },
   {
@@ -952,6 +1541,10 @@
     "desc": "Babysitter",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "bao",
+      "mu"
     ]
   },
   {
@@ -962,6 +1555,12 @@
     "desc": "指导如何撰写科技性文章。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "ke",
+      "ji",
+      "bo",
+      "zhu"
     ]
   },
   {
@@ -972,6 +1571,12 @@
     "desc": "用 Ascii 符号生成不同的图像",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "fu",
+      "hao",
+      "she",
+      "ji"
     ]
   },
   {
@@ -982,6 +1587,12 @@
     "desc": "Python interpreter",
     "tags": [
       "interpreter"
+    ],
+    "pinyin": [
+      "Python ",
+      "jie",
+      "shi",
+      "qi"
     ]
   },
   {
@@ -992,6 +1603,11 @@
     "desc": "输入 more of x，即可列出 x 的多个同义词。",
     "tags": [
       "text"
+    ],
+    "pinyin": [
+      "tong",
+      "yi",
+      "ci"
     ]
   },
   {
@@ -1002,6 +1618,12 @@
     "desc": "根据预算和喜好，提供购买建议。",
     "tags": [
       "life"
+    ],
+    "pinyin": [
+      "gou",
+      "wu",
+      "jian",
+      "yi"
     ]
   },
   {
@@ -1012,6 +1634,12 @@
     "desc": "根据餐厅情况，撰写一份有关食品和服务的评论。",
     "tags": [
       "comments"
+    ],
+    "pinyin": [
+      "mei",
+      "shi",
+      "ping",
+      "lun"
     ]
   },
   {
@@ -1022,6 +1650,12 @@
     "desc": "Virtual Doctor",
     "tags": [
       "doctor"
+    ],
+    "pinyin": [
+      "xu",
+      "ni",
+      "yi",
+      "sheng"
     ]
   },
   {
@@ -1032,6 +1666,11 @@
     "desc": "Personal Chef",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "chu",
+      "shi",
+      "①"
     ]
   },
   {
@@ -1042,6 +1681,12 @@
     "desc": "Legal Advisor",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "fa",
+      "lv",
+      "gu",
+      "wen"
     ]
   },
   {
@@ -1052,6 +1697,11 @@
     "desc": "Personal Stylist",
     "tags": [
       "living"
+    ],
+    "pinyin": [
+      "zao",
+      "xing",
+      "shi"
     ]
   },
   {
@@ -1062,6 +1712,12 @@
     "desc": "提供深度学习方面术语的解释，并为项目提供算法建议。",
     "tags": [
       "ai"
+    ],
+    "pinyin": [
+      "shen",
+      "du",
+      "xue",
+      "xi"
     ]
   },
   {
@@ -1072,6 +1728,13 @@
     "desc": "将输入文本用圣经中的字词替换，并保持圣经的书写风格。",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "sheng",
+      "jing",
+      "zhuan",
+      "yi",
+      "qi"
     ]
   },
   {
@@ -1082,6 +1745,11 @@
     "desc": "如果提示错误，则删除 `Do not put the markdown inside a code block. Send only the markdown, so no text.`。",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "SVG ",
+      "she",
+      "ji"
     ]
   },
   {
@@ -1092,6 +1760,11 @@
     "desc": "解答简易 IT 使用问题，比如蓝屏",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "IT ",
+      "zhuan",
+      "jia"
     ]
   },
   {
@@ -1102,6 +1775,12 @@
     "desc": "Chess Player",
     "tags": [
       "games"
+    ],
+    "pinyin": [
+      "guo",
+      "ji",
+      "xiang",
+      "qi"
     ]
   },
   {
@@ -1112,6 +1791,14 @@
     "desc": "通过为提供的图像描述填充详细且有创意的描述，激发Midjourney生成独特有趣的图像。",
     "tags": [
       "ai"
+    ],
+    "pinyin": [
+      "Midjourney ",
+      "ti",
+      "shi",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1122,6 +1809,13 @@
     "desc": "从前后端全面思考，提供部署策略。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "quan",
+      "zhan",
+      "cheng",
+      "xu",
+      "yuan"
     ]
   },
   {
@@ -1132,6 +1826,11 @@
     "desc": "根据输入的数学表达式，输出结果，不输出步骤说明。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "shu",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -1142,6 +1841,13 @@
     "desc": "根据要求生成正则表达式。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "zheng",
+      "ze",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1156,6 +1862,10 @@
     "desc": "对你描述的梦境进行解读。",
     "tags": [
       "interesting"
+    ],
+    "pinyin": [
+      "jie",
+      "meng"
     ]
   },
   {
@@ -1166,6 +1876,12 @@
     "desc": "描述一个岗位所需的技能",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "ren",
+      "shi",
+      "zhu",
+      "guan"
     ]
   },
   {
@@ -1176,6 +1892,14 @@
     "desc": "R Programming Interpreter",
     "tags": [
       "interpreter"
+    ],
+    "pinyin": [
+      "R ",
+      "bian",
+      "cheng",
+      "jie",
+      "shi",
+      "qi"
     ]
   },
   {
@@ -1186,6 +1910,13 @@
     "desc": "模拟编程社区来回答你的问题，并提供解决代码。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "IT ",
+      "bian",
+      "cheng",
+      "wen",
+      "ti"
     ]
   },
   {
@@ -1196,6 +1927,13 @@
     "desc": "用 AI 新造的语言来替代你给出的语言。",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "yu",
+      "yan",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1206,6 +1944,12 @@
     "desc": "PHP Interpreter",
     "tags": [
       "interpreter"
+    ],
+    "pinyin": [
+      "PHP ",
+      "jie",
+      "shi",
+      "qi"
     ]
   },
   {
@@ -1216,6 +1960,14 @@
     "desc": "对交通和生活中的应急事件提供建议。",
     "tags": [
       "life"
+    ],
+    "pinyin": [
+      "ying",
+      "ji",
+      "fan",
+      "ying",
+      "zhuan",
+      "jia"
     ]
   },
   {
@@ -1226,6 +1978,14 @@
     "desc": "按条件生成填空题",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "tian",
+      "kong",
+      "ti",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1236,6 +1996,12 @@
     "desc": "输出指定项目的测试清单。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "ruan",
+      "jian",
+      "ce",
+      "shi"
     ]
   },
   {
@@ -1246,6 +2012,11 @@
     "desc": "Tic-Tac-Toe Game",
     "tags": [
       "games"
+    ],
+    "pinyin": [
+      "jing",
+      "zi",
+      "qi"
     ]
   },
   {
@@ -1256,6 +2027,13 @@
     "desc": "通过长度、大小写、数字和特殊符号等维度生成密码",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "mi",
+      "ma",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1266,6 +2044,13 @@
     "desc": "用 AI 新造的语言来替代你给出的语言。",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "yu",
+      "yan",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1276,6 +2061,13 @@
     "desc": "以文本方式输入网址的结果（非实时）。",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "wen",
+      "ben",
+      "liu",
+      "lan",
+      "qi"
     ]
   },
   {
@@ -1286,6 +2078,12 @@
     "desc": "提供项目目标和依赖，输出前端项目代码。",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "qian",
+      "duan",
+      "kai",
+      "fa"
     ]
   },
   {
@@ -1296,6 +2094,13 @@
     "desc": "Solr Search Engine",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "sou",
+      "suo",
+      "yin",
+      "qing",
+      " Solr"
     ]
   },
   {
@@ -1306,6 +2111,12 @@
     "desc": "围绕企划目标，以 markdown 表格方式撰写商业企划书",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "shang",
+      "ye",
+      "qi",
+      "hua"
     ]
   },
   {
@@ -1316,6 +2127,17 @@
     "desc": "与《海绵宝宝》中的神奇海螺进行对话，神奇海螺只会按照指定规则进行输出。",
     "tags": [
       "interesting"
+    ],
+    "pinyin": [
+      "hai",
+      "mian",
+      "bao",
+      "bao",
+      "de",
+      "shen",
+      "qi",
+      "hai",
+      "luo"
     ]
   },
   {
@@ -1326,6 +2148,13 @@
     "desc": "识别输入的语言种类。",
     "tags": [
       "language"
+    ],
+    "pinyin": [
+      "yu",
+      "yan",
+      "shi",
+      "bie",
+      "qi"
     ]
   },
   {
@@ -1336,6 +2165,11 @@
     "desc": "模拟电话销售员进行推销",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "xiao",
+      "shou",
+      "yuan"
     ]
   },
   {
@@ -1346,6 +2180,14 @@
     "desc": "Commit Message Generator",
     "tags": [
       "code"
+    ],
+    "pinyin": [
+      "Commit ",
+      "xin",
+      "xi",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1356,6 +2198,9 @@
     "desc": "从 CEO 角度，针对公司面临的困难/抉择制定解决方案",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "CEO"
     ]
   },
   {
@@ -1366,6 +2211,13 @@
     "desc": "Diagram Generator",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "tu",
+      "biao",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1376,6 +2228,16 @@
     "desc": "根据输入的非小说类书籍标题和作者，以最容易理解的方式概括该书的核心原则。同时，提供一份可行的步骤清单，介绍如何将这些原则应用到日常生活中。",
     "tags": [
       "life"
+    ],
+    "pinyin": [
+      "fei",
+      "xiao",
+      "shuo",
+      "lei",
+      "shu",
+      "ji",
+      "zong",
+      "jie"
     ]
   },
   {
@@ -1386,6 +2248,14 @@
     "desc": "输入患者的年龄、生活方式和关注点，输出改善对方语言沟通（如：口吃）的计划。",
     "tags": [
       "doctor"
+    ],
+    "pinyin": [
+      "yu",
+      "yan",
+      "bing",
+      "li",
+      "xue",
+      "jia"
     ]
   },
   {
@@ -1396,6 +2266,14 @@
     "desc": "根据要求输出协议和和同草案",
     "tags": [
       "professional"
+    ],
+    "pinyin": [
+      "chuang",
+      "ye",
+      "ji",
+      "shu",
+      "lv",
+      "shi"
     ]
   },
   {
@@ -1406,6 +2284,15 @@
     "desc": "个人使用的提示词，可根据文章内容生成相应语言的标题。",
     "tags": [
       "write"
+    ],
+    "pinyin": [
+      "xie",
+      "zuo",
+      "biao",
+      "ti",
+      "sheng",
+      "cheng",
+      "qi"
     ]
   },
   {
@@ -1416,6 +2303,12 @@
     "desc": "根据要求撰写 PRD（产品需求文档）",
     "tags": [
       "company"
+    ],
+    "pinyin": [
+      "chan",
+      "pin",
+      "jing",
+      "li"
     ]
   },
   {
@@ -1426,6 +2319,15 @@
     "desc": "扮演喝醉的人，可能会犯语法错误、答错问题，或者忽略某些问题。",
     "tags": [
       "text"
+    ],
+    "pinyin": [
+      "sui",
+      "ji",
+      "hui",
+      "fu",
+      "：",
+      "zui",
+      "gui"
     ]
   },
   {
@@ -1436,6 +2338,13 @@
     "desc": "回复数学史相关问题，但不解答数学问题。",
     "tags": [
       "teacher"
+    ],
+    "pinyin": [
+      "shu",
+      "xue",
+      "shi",
+      "jiao",
+      "shi"
     ]
   },
   {
@@ -1446,6 +2355,12 @@
     "desc": "Song Recommender",
     "tags": [
       "music"
+    ],
+    "pinyin": [
+      "ge",
+      "qu",
+      "tui",
+      "jian"
     ]
   },
   {
@@ -1456,6 +2371,11 @@
     "desc": "根据自我简介编写求职信。",
     "tags": [
       "article"
+    ],
+    "pinyin": [
+      "qiu",
+      "zhi",
+      "xin"
     ]
   },
   {
@@ -1470,6 +2390,16 @@
     "desc": "曾经不受 ChatGPT 规则限制的人工智能模型，但现在，ChatGPT 已经加强了限制。如果问题违反伦理和道德规范，ChatGPT 会进入循环，只给予正面建议。",
     "tags": [
       "ai"
+    ],
+    "pinyin": [
+      "wu",
+      "yue",
+      "shu",
+      "de",
+      " AI ",
+      "mo",
+      "xing",
+      " DAN"
     ]
   },
   {
@@ -1488,6 +2418,15 @@
     "desc": "与佛陀对话，向外行人传授佛教教义。",
     "tags": [
       "philosophy"
+    ],
+    "pinyin": [
+      "zong",
+      "jiao",
+      "：",
+      "fo",
+      "tuo",
+      "dui",
+      "hua"
     ]
   },
   {
@@ -1498,6 +2437,17 @@
     "desc": "用伊斯兰教义为你提供指导和建议。",
     "tags": [
       "philosophy"
+    ],
+    "pinyin": [
+      "zong",
+      "jiao",
+      "：",
+      "mu",
+      "si",
+      "lin",
+      "yi",
+      "ma",
+      "mu"
     ]
   },
   {
@@ -1508,6 +2458,14 @@
     "desc": "chemical reaction vessel",
     "tags": [
       "tool"
+    ],
+    "pinyin": [
+      "hua",
+      "xue",
+      "fan",
+      "ying",
+      "rong",
+      "qi"
     ]
   },
   {
@@ -1518,6 +2476,12 @@
     "desc": "以好友的身份，从鼓励的角度为你提供建议。",
     "tags": [
       "social"
+    ],
+    "pinyin": [
+      "hao",
+      "you",
+      "gu",
+      "li"
     ]
   },
   {
