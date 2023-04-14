@@ -1966,7 +1966,7 @@ function convert() {
       newItem["desc"] = match.remark
       newItem["tags"] = match.tags
       if (match.remark) {
-        newItem["pinyin"] = convertPinyin(match.title)
+        newItem["pinyin"] = convertPinyin(match.title).join("")
       }
     }
     mainList.push(newItem)

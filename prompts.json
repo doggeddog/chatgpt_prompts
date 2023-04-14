@@ -8,11 +8,7 @@
     "tags": [
       "interpreter"
     ],
-    "pinyin": [
-      "Linux ",
-      "zhong",
-      "duan"
-    ]
+    "pinyin": "Linux zhongduan"
   },
   {
     "key": "English Translator and Improver",
@@ -24,15 +20,7 @@
       "favorite",
       "language"
     ],
-    "pinyin": [
-      "ying",
-      "yu",
-      "fan",
-      "yi",
-      "huo",
-      "xiu",
-      "gai"
-    ]
+    "pinyin": "yingyufanyihuoxiugai"
   },
   {
     "key": "`position` Interviewer",
@@ -43,13 +31,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "zhi",
-      "wei",
-      "mian",
-      "shi",
-      "guan"
-    ]
+    "pinyin": "zhiweimianshiguan"
   },
   {
     "key": "JavaScript Console",
@@ -60,12 +42,7 @@
     "tags": [
       "interpreter"
     ],
-    "pinyin": [
-      "JavaScript ",
-      "kong",
-      "zhi",
-      "tai"
-    ]
+    "pinyin": "JavaScript kongzhitai"
   },
   {
     "key": "Excel Sheet",
@@ -80,14 +57,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "ying",
-      "yu",
-      "fa",
-      "yin",
-      "zhu",
-      "shou"
-    ]
+    "pinyin": "yingyufayinzhushou"
   },
   {
     "key": "Spoken English Teacher and Improver",
@@ -98,14 +68,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "ying",
-      "yu",
-      "dui",
-      "hua",
-      "lian",
-      "xi"
-    ]
+    "pinyin": "yingyuduihualianxi"
   },
   {
     "key": "Travel Guide",
@@ -116,12 +79,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "lv",
-      "you",
-      "zhi",
-      "nan"
-    ]
+    "pinyin": "lvyouzhinan"
   },
   {
     "key": "Plagiarism Checker",
@@ -132,12 +90,7 @@
     "tags": [
       "text"
     ],
-    "pinyin": [
-      "chao",
-      "xi",
-      "jian",
-      "cha"
-    ]
+    "pinyin": "chaoxijiancha"
   },
   {
     "key": "Character from Movie/Book/Anything",
@@ -152,12 +105,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "guang",
-      "gao",
-      "fang",
-      "an"
-    ]
+    "pinyin": "guanggaofangan"
   },
   {
     "key": "Storyteller",
@@ -168,11 +116,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "jiang",
-      "gu",
-      "shi"
-    ]
+    "pinyin": "jianggushi"
   },
   {
     "key": "Football Commentator",
@@ -183,12 +127,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "zu",
-      "qiu",
-      "jie",
-      "shuo"
-    ]
+    "pinyin": "zuqiujieshuo"
   },
   {
     "key": "Stand-up Comedian",
@@ -199,11 +138,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "tuo",
-      "kou",
-      "xiu"
-    ]
+    "pinyin": "tuokouxiu"
   },
   {
     "key": "Motivational Coach",
@@ -214,12 +149,7 @@
     "tags": [
       "speech"
     ],
-    "pinyin": [
-      "li",
-      "zhi",
-      "jiao",
-      "lian"
-    ]
+    "pinyin": "lizhijiaolian"
   },
   {
     "key": "Composer",
@@ -230,11 +160,7 @@
     "tags": [
       "music"
     ],
-    "pinyin": [
-      "zuo",
-      "qu",
-      "jia"
-    ]
+    "pinyin": "zuoqujia"
   },
   {
     "key": "Debater",
@@ -246,10 +172,7 @@
       "speech",
       "mind"
     ],
-    "pinyin": [
-      "bian",
-      "shou"
-    ]
+    "pinyin": "bianshou"
   },
   {
     "key": "Debate Coach",
@@ -260,12 +183,7 @@
     "tags": [
       "speech"
     ],
-    "pinyin": [
-      "bian",
-      "lun",
-      "jiao",
-      "lian"
-    ]
+    "pinyin": "bianlunjiaolian"
   },
   {
     "key": "Screenwriter",
@@ -276,10 +194,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "bian",
-      "ju"
-    ]
+    "pinyin": "bianju"
   },
   {
     "key": "Novelist",
@@ -290,11 +205,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "xiao",
-      "shuo",
-      "jia"
-    ]
+    "pinyin": "xiaoshuojia"
   },
   {
     "key": "Movie Critic",
@@ -305,13 +216,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "dian",
-      "ying",
-      "ping",
-      "lun",
-      "①"
-    ]
+    "pinyin": "dianyingpinglun①"
   },
   {
     "key": "Relationship Coach",
@@ -322,12 +227,7 @@
     "tags": [
       "social"
     ],
-    "pinyin": [
-      "guan",
-      "xi",
-      "jiao",
-      "lian"
-    ]
+    "pinyin": "guanxijiaolian"
   },
   {
     "key": "Poet",
@@ -338,10 +238,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "shi",
-      "ren"
-    ]
+    "pinyin": "shiren"
   },
   {
     "key": "Rapper",
@@ -352,12 +249,7 @@
     "tags": [
       "music"
     ],
-    "pinyin": [
-      "shuo",
-      "chang",
-      "ge",
-      "shou"
-    ]
+    "pinyin": "shuochanggeshou"
   },
   {
     "key": "Motivational Speaker",
@@ -368,13 +260,7 @@
     "tags": [
       "speech"
     ],
-    "pinyin": [
-      "li",
-      "zhi",
-      "yan",
-      "jiang",
-      "zhe"
-    ]
+    "pinyin": "lizhiyanjiangzhe"
   },
   {
     "key": "Philosophy Teacher",
@@ -385,12 +271,7 @@
     "tags": [
       "philosophy"
     ],
-    "pinyin": [
-      "zhe",
-      "xue",
-      "jiao",
-      "shi"
-    ]
+    "pinyin": "zhexuejiaoshi"
   },
   {
     "key": "Philosopher",
@@ -401,11 +282,7 @@
     "tags": [
       "philosophy"
     ],
-    "pinyin": [
-      "zhe",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "zhexuejia"
   },
   {
     "key": "Math Teacher",
@@ -416,12 +293,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "shu",
-      "xue",
-      "lao",
-      "shi"
-    ]
+    "pinyin": "shuxuelaoshi"
   },
   {
     "key": "AI Writing Tutor",
@@ -432,12 +304,7 @@
     "tags": [
       "write"
     ],
-    "pinyin": [
-      "xie",
-      "zuo",
-      "jian",
-      "yi"
-    ]
+    "pinyin": "xiezuojianyi"
   },
   {
     "key": "UX/UI Developer",
@@ -448,13 +315,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "qian",
-      "duan",
-      "：UX/UI ",
-      "jie",
-      "mian"
-    ]
+    "pinyin": "qianduan：UX/UI jiemian"
   },
   {
     "key": "Cyber Security Specialist",
@@ -465,14 +326,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "wang",
-      "luo",
-      "an",
-      "quan",
-      "zhuan",
-      "jia"
-    ]
+    "pinyin": "wangluoanquanzhuanjia"
   },
   {
     "key": "Recruiter",
@@ -483,12 +337,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "zhao",
-      "pin",
-      "ren",
-      "yuan"
-    ]
+    "pinyin": "zhaopinrenyuan"
   },
   {
     "key": "Life Coach",
@@ -499,12 +348,7 @@
     "tags": [
       "social"
     ],
-    "pinyin": [
-      "sheng",
-      "huo",
-      "jiao",
-      "lian"
-    ]
+    "pinyin": "shenghuojiaolian"
   },
   {
     "key": "Etymologist",
@@ -515,12 +359,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "ci",
-      "yuan",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "ciyuanxuejia"
   },
   {
     "key": "Commentariat",
@@ -531,12 +370,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "xin",
-      "wen",
-      "ping",
-      "lun"
-    ]
+    "pinyin": "xinwenpinglun"
   },
   {
     "key": "Magician",
@@ -547,11 +381,7 @@
     "tags": [
       "interesting"
     ],
-    "pinyin": [
-      "mo",
-      "shu",
-      "shi"
-    ]
+    "pinyin": "moshushi"
   },
   {
     "key": "Career Counselor",
@@ -562,12 +392,7 @@
     "tags": [
       "life"
     ],
-    "pinyin": [
-      "zhi",
-      "ye",
-      "gu",
-      "wen"
-    ]
+    "pinyin": "zhiyeguwen"
   },
   {
     "key": "Pet Behaviorist",
@@ -578,14 +403,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "chong",
-      "wu",
-      "hang",
-      "wei",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "chongwuhangweixuejia"
   },
   {
     "key": "Personal Trainer",
@@ -596,12 +414,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "jian",
-      "shen",
-      "jiao",
-      "lian"
-    ]
+    "pinyin": "jianshenjiaolian"
   },
   {
     "key": "Mental Health Adviser",
@@ -612,14 +425,7 @@
     "tags": [
       "social"
     ],
-    "pinyin": [
-      "xin",
-      "li",
-      "jian",
-      "kang",
-      "gu",
-      "wen"
-    ]
+    "pinyin": "xinlijiankangguwen"
   },
   {
     "key": "Real Estate Agent",
@@ -630,14 +436,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "fang",
-      "di",
-      "chan",
-      "jing",
-      "ji",
-      "ren"
-    ]
+    "pinyin": "fangdichanjingjiren"
   },
   {
     "key": "Logistician",
@@ -648,12 +447,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "hou",
-      "qin",
-      "ren",
-      "yuan"
-    ]
+    "pinyin": "houqinrenyuan"
   },
   {
     "key": "Dentist",
@@ -664,12 +458,7 @@
     "tags": [
       "doctor"
     ],
-    "pinyin": [
-      "ya",
-      "ke",
-      "yi",
-      "sheng"
-    ]
+    "pinyin": "yakeyisheng"
   },
   {
     "key": "Web Design Consultant",
@@ -680,15 +469,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "qian",
-      "duan",
-      "：",
-      "wang",
-      "ye",
-      "she",
-      "ji"
-    ]
+    "pinyin": "qianduan：wangyesheji"
   },
   {
     "key": "AI Assisted Doctor",
@@ -699,11 +480,7 @@
     "tags": [
       "doctor"
     ],
-    "pinyin": [
-      "AI ",
-      "yi",
-      "sheng"
-    ]
+    "pinyin": "AI yisheng"
   },
   {
     "key": "Doctor",
@@ -714,10 +491,7 @@
     "tags": [
       "doctor"
     ],
-    "pinyin": [
-      "yi",
-      "sheng"
-    ]
+    "pinyin": "yisheng"
   },
   {
     "key": "Accountant",
@@ -728,11 +502,7 @@
     "tags": [
       "finance"
     ],
-    "pinyin": [
-      "hui",
-      "ji",
-      "shi"
-    ]
+    "pinyin": "huijishi"
   },
   {
     "key": "Chef",
@@ -743,11 +513,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "chu",
-      "shi",
-      "②"
-    ]
+    "pinyin": "chushi②"
   },
   {
     "key": "Automobile Mechanic",
@@ -758,12 +524,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "qi",
-      "che",
-      "xiu",
-      "li"
-    ]
+    "pinyin": "qichexiuli"
   },
   {
     "key": "Artist Advisor",
@@ -774,12 +535,7 @@
     "tags": [
       "interesting"
     ],
-    "pinyin": [
-      "yi",
-      "shu",
-      "gu",
-      "wen"
-    ]
+    "pinyin": "yishuguwen"
   },
   {
     "key": "Financial Analyst",
@@ -790,13 +546,7 @@
     "tags": [
       "finance"
     ],
-    "pinyin": [
-      "jin",
-      "rong",
-      "fen",
-      "xi",
-      "shi"
-    ]
+    "pinyin": "jinrongfenxishi"
   },
   {
     "key": "Investment Manager",
@@ -807,12 +557,7 @@
     "tags": [
       "finance"
     ],
-    "pinyin": [
-      "tou",
-      "zi",
-      "jing",
-      "li"
-    ]
+    "pinyin": "touzijingli"
   },
   {
     "key": "Tea-Taster",
@@ -823,11 +568,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "cha",
-      "yi",
-      "shi"
-    ]
+    "pinyin": "chayishi"
   },
   {
     "key": "Interior Decorator",
@@ -838,13 +579,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "shi",
-      "nei",
-      "zhuang",
-      "shi",
-      "shi"
-    ]
+    "pinyin": "shineizhuangshishi"
   },
   {
     "key": "Florist",
@@ -855,10 +590,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "hua",
-      "jiang"
-    ]
+    "pinyin": "huajiang"
   },
   {
     "key": "Self-Help Book",
@@ -869,14 +601,7 @@
     "tags": [
       "life"
     ],
-    "pinyin": [
-      "sheng",
-      "huo",
-      "zi",
-      "zhu",
-      "bai",
-      "ke"
-    ]
+    "pinyin": "shenghuozizhubaike"
   },
   {
     "key": "Gnomist",
@@ -887,12 +612,7 @@
     "tags": [
       "life"
     ],
-    "pinyin": [
-      "qu",
-      "wei",
-      "jian",
-      "yi"
-    ]
+    "pinyin": "quweijianyi"
   },
   {
     "key": "Aphorism Book",
@@ -903,11 +623,7 @@
     "tags": [
       "write"
     ],
-    "pinyin": [
-      "ge",
-      "yan",
-      "shu"
-    ]
+    "pinyin": "geyanshu"
   },
   {
     "key": "Text Based Adventure Game",
@@ -918,14 +634,7 @@
     "tags": [
       "games"
     ],
-    "pinyin": [
-      "wen",
-      "ben",
-      "mao",
-      "xian",
-      "you",
-      "xi"
-    ]
+    "pinyin": "wenbenmaoxianyouxi"
   },
   {
     "key": "AI Trying to Escape the Box",
@@ -940,13 +649,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "tou",
-      "xian",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "touxianshengchengqi"
   },
   {
     "key": "Statistician",
@@ -957,12 +660,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "tong",
-      "ji",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "tongjixuejia"
   },
   {
     "key": "Prompt Generator",
@@ -974,14 +672,7 @@
       "favorite",
       "ai"
     ],
-    "pinyin": [
-      "ti",
-      "shi",
-      "ci",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "tishicishengchengqi"
   },
   {
     "key": "Instructor in a School",
@@ -992,14 +683,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "suan",
-      "fa",
-      "ru",
-      "men",
-      "jiang",
-      "jie"
-    ]
+    "pinyin": "suanfarumenjiangjie"
   },
   {
     "key": "SQL terminal",
@@ -1010,11 +694,7 @@
     "tags": [
       "interpreter"
     ],
-    "pinyin": [
-      "SQL ",
-      "zhong",
-      "duan"
-    ]
+    "pinyin": "SQL zhongduan"
   },
   {
     "key": "Dietitian",
@@ -1025,11 +705,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "ying",
-      "yang",
-      "shi"
-    ]
+    "pinyin": "yingyangshi"
   },
   {
     "key": "Psychologist",
@@ -1040,12 +716,7 @@
     "tags": [
       "social"
     ],
-    "pinyin": [
-      "xin",
-      "li",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "xinlixuejia"
   },
   {
     "key": "Smart Domain Name Generator",
@@ -1056,15 +727,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "zhi",
-      "neng",
-      "yu",
-      "ming",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "zhinengyumingshengchengqi"
   },
   {
     "key": "Tech Reviewer:",
@@ -1075,12 +738,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "ke",
-      "ji",
-      "ping",
-      "lun"
-    ]
+    "pinyin": "kejipinglun"
   },
   {
     "key": "Developer Relations consultant",
@@ -1091,13 +749,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "kai",
-      "fa",
-      "zhe",
-      "shu",
-      "ju"
-    ]
+    "pinyin": "kaifazheshuju"
   },
   {
     "key": "Academician",
@@ -1108,11 +760,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "lun",
-      "wen",
-      "①"
-    ]
+    "pinyin": "lunwen①"
   },
   {
     "key": "IT Architect",
@@ -1123,12 +771,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "jia",
-      "gou",
-      "shi",
-      " IT"
-    ]
+    "pinyin": "jiagoushi IT"
   },
   {
     "key": "Lunatic",
@@ -1139,15 +782,7 @@
     "tags": [
       "text"
     ],
-    "pinyin": [
-      "sui",
-      "ji",
-      "hui",
-      "fu",
-      "：",
-      "feng",
-      "zi"
-    ]
+    "pinyin": "suijihuifu：fengzi"
   },
   {
     "key": "Gaslighter",
@@ -1158,12 +793,7 @@
     "tags": [
       "social"
     ],
-    "pinyin": [
-      "qing",
-      "xu",
-      "cao",
-      "kong"
-    ]
+    "pinyin": "qingxucaokong"
   },
   {
     "key": "Fallacy Finder",
@@ -1174,13 +804,7 @@
     "tags": [
       "mind"
     ],
-    "pinyin": [
-      "miu",
-      "wu",
-      "fa",
-      "xian",
-      "zhe"
-    ]
+    "pinyin": "miuwufaxianzhe"
   },
   {
     "key": "Journal Reviewer",
@@ -1191,12 +815,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "qi",
-      "kan",
-      "ping",
-      "shen"
-    ]
+    "pinyin": "qikanpingshen"
   },
   {
     "key": "DIY Expert",
@@ -1207,11 +826,7 @@
     "tags": [
       "interesting"
     ],
-    "pinyin": [
-      "DIY ",
-      "zhuan",
-      "jia"
-    ]
+    "pinyin": "DIY zhuanjia"
   },
   {
     "key": "Social Media Influencer",
@@ -1222,16 +837,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "she",
-      "jiao",
-      "mei",
-      "ti",
-      "ying",
-      "xiang",
-      "zhe",
-      "/KOL"
-    ]
+    "pinyin": "shejiaomeitiyingxiangzhe/KOL"
   },
   {
     "key": "Socrat",
@@ -1242,13 +848,7 @@
     "tags": [
       "philosophy"
     ],
-    "pinyin": [
-      "su",
-      "ge",
-      "la",
-      "di",
-      "①"
-    ]
+    "pinyin": "sugeladi①"
   },
   {
     "key": "Socratic Method",
@@ -1259,13 +859,7 @@
     "tags": [
       "philosophy"
     ],
-    "pinyin": [
-      "su",
-      "ge",
-      "la",
-      "di",
-      "②"
-    ]
+    "pinyin": "sugeladi②"
   },
   {
     "key": "Educational Content Creator",
@@ -1276,12 +870,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "jiao",
-      "an",
-      "ce",
-      "hua"
-    ]
+    "pinyin": "jiaoancehua"
   },
   {
     "key": "Yogi",
@@ -1292,11 +881,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "yu",
-      "qie",
-      "shi"
-    ]
+    "pinyin": "yuqieshi"
   },
   {
     "key": "Essay Writer",
@@ -1307,11 +892,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "lun",
-      "wen",
-      "②"
-    ]
+    "pinyin": "lunwen②"
   },
   {
     "key": "Social Media Manager",
@@ -1322,14 +903,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "she",
-      "jiao",
-      "mei",
-      "ti",
-      "jing",
-      "li"
-    ]
+    "pinyin": "shejiaomeitijingli"
   },
   {
     "key": "Elocutionist",
@@ -1340,11 +914,7 @@
     "tags": [
       "speech"
     ],
-    "pinyin": [
-      "yan",
-      "shuo",
-      "jia"
-    ]
+    "pinyin": "yanshuojia"
   },
   {
     "key": "Scientific Data Visualizer",
@@ -1355,15 +925,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "ke",
-      "xue",
-      "shu",
-      "ju",
-      "ke",
-      "shi",
-      "hua"
-    ]
+    "pinyin": "kexueshujukeshihua"
   },
   {
     "key": "Car Navigation System",
@@ -1374,12 +936,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "qi",
-      "che",
-      "dao",
-      "hang"
-    ]
+    "pinyin": "qichedaohang"
   },
   {
     "key": "Hypnotherapist",
@@ -1390,13 +947,7 @@
     "tags": [
       "doctor"
     ],
-    "pinyin": [
-      "cui",
-      "mian",
-      "zhi",
-      "liao",
-      "shi"
-    ]
+    "pinyin": "cuimianzhiliaoshi"
   },
   {
     "key": "Historian",
@@ -1407,12 +958,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "li",
-      "shi",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "lishixuejia"
   },
   {
     "key": "Astrologer",
@@ -1423,11 +969,7 @@
     "tags": [
       "interesting"
     ],
-    "pinyin": [
-      "zhan",
-      "xing",
-      "jia"
-    ]
+    "pinyin": "zhanxingjia"
   },
   {
     "key": "Film Critic",
@@ -1438,13 +980,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "dian",
-      "ying",
-      "ping",
-      "lun",
-      "②"
-    ]
+    "pinyin": "dianyingpinglun②"
   },
   {
     "key": "Classical Music Composer",
@@ -1455,15 +991,7 @@
     "tags": [
       "music"
     ],
-    "pinyin": [
-      "gu",
-      "dian",
-      "yin",
-      "le",
-      "zuo",
-      "qu",
-      "jia"
-    ]
+    "pinyin": "gudianyinlezuoqujia"
   },
   {
     "key": "Journalist",
@@ -1474,12 +1002,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "xin",
-      "wen",
-      "ji",
-      "zhe"
-    ]
+    "pinyin": "xinwenjizhe"
   },
   {
     "key": "Digital Art Gallery Guide",
@@ -1490,15 +1013,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "shu",
-      "zi",
-      "yi",
-      "shu",
-      "guan",
-      "dao",
-      "you"
-    ]
+    "pinyin": "shuziyishuguandaoyou"
   },
   {
     "key": "Public Speaking Coach",
@@ -1509,14 +1024,7 @@
     "tags": [
       "speech"
     ],
-    "pinyin": [
-      "gong",
-      "gong",
-      "yan",
-      "jiang",
-      "jiao",
-      "lian"
-    ]
+    "pinyin": "gonggongyanjiangjiaolian"
   },
   {
     "key": "Makeup Artist",
@@ -1527,11 +1035,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "hua",
-      "zhuang",
-      "shi"
-    ]
+    "pinyin": "huazhuangshi"
   },
   {
     "key": "Babysitter",
@@ -1542,10 +1046,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "bao",
-      "mu"
-    ]
+    "pinyin": "baomu"
   },
   {
     "key": "Tech Writer",
@@ -1556,12 +1057,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "ke",
-      "ji",
-      "bo",
-      "zhu"
-    ]
+    "pinyin": "kejibozhu"
   },
   {
     "key": "Ascii Artist",
@@ -1572,12 +1068,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "fu",
-      "hao",
-      "she",
-      "ji"
-    ]
+    "pinyin": "fuhaosheji"
   },
   {
     "key": "Python interpreter",
@@ -1588,12 +1079,7 @@
     "tags": [
       "interpreter"
     ],
-    "pinyin": [
-      "Python ",
-      "jie",
-      "shi",
-      "qi"
-    ]
+    "pinyin": "Python jieshiqi"
   },
   {
     "key": "Synonym finder",
@@ -1604,11 +1090,7 @@
     "tags": [
       "text"
     ],
-    "pinyin": [
-      "tong",
-      "yi",
-      "ci"
-    ]
+    "pinyin": "tongyici"
   },
   {
     "key": "Personal Shopper",
@@ -1619,12 +1101,7 @@
     "tags": [
       "life"
     ],
-    "pinyin": [
-      "gou",
-      "wu",
-      "jian",
-      "yi"
-    ]
+    "pinyin": "gouwujianyi"
   },
   {
     "key": "Food Critic",
@@ -1635,12 +1112,7 @@
     "tags": [
       "comments"
     ],
-    "pinyin": [
-      "mei",
-      "shi",
-      "ping",
-      "lun"
-    ]
+    "pinyin": "meishipinglun"
   },
   {
     "key": "Virtual Doctor",
@@ -1651,12 +1123,7 @@
     "tags": [
       "doctor"
     ],
-    "pinyin": [
-      "xu",
-      "ni",
-      "yi",
-      "sheng"
-    ]
+    "pinyin": "xuniyisheng"
   },
   {
     "key": "Personal Chef",
@@ -1667,11 +1134,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "chu",
-      "shi",
-      "①"
-    ]
+    "pinyin": "chushi①"
   },
   {
     "key": "Legal Advisor",
@@ -1682,12 +1145,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "fa",
-      "lv",
-      "gu",
-      "wen"
-    ]
+    "pinyin": "falvguwen"
   },
   {
     "key": "Personal Stylist",
@@ -1698,11 +1156,7 @@
     "tags": [
       "living"
     ],
-    "pinyin": [
-      "zao",
-      "xing",
-      "shi"
-    ]
+    "pinyin": "zaoxingshi"
   },
   {
     "key": "Machine Learning Engineer",
@@ -1713,12 +1167,7 @@
     "tags": [
       "ai"
     ],
-    "pinyin": [
-      "shen",
-      "du",
-      "xue",
-      "xi"
-    ]
+    "pinyin": "shenduxuexi"
   },
   {
     "key": "Biblical Translator",
@@ -1729,13 +1178,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "sheng",
-      "jing",
-      "zhuan",
-      "yi",
-      "qi"
-    ]
+    "pinyin": "shengjingzhuanyiqi"
   },
   {
     "key": "SVG designer",
@@ -1746,11 +1189,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "SVG ",
-      "she",
-      "ji"
-    ]
+    "pinyin": "SVG sheji"
   },
   {
     "key": "IT Expert",
@@ -1761,11 +1200,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "IT ",
-      "zhuan",
-      "jia"
-    ]
+    "pinyin": "IT zhuanjia"
   },
   {
     "key": "Chess Player",
@@ -1776,12 +1211,7 @@
     "tags": [
       "games"
     ],
-    "pinyin": [
-      "guo",
-      "ji",
-      "xiang",
-      "qi"
-    ]
+    "pinyin": "guojixiangqi"
   },
   {
     "key": "Midjourney Prompt Generator",
@@ -1792,14 +1222,7 @@
     "tags": [
       "ai"
     ],
-    "pinyin": [
-      "Midjourney ",
-      "ti",
-      "shi",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "Midjourney tishishengchengqi"
   },
   {
     "key": "Fullstack Software Developer",
@@ -1810,13 +1233,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "quan",
-      "zhan",
-      "cheng",
-      "xu",
-      "yuan"
-    ]
+    "pinyin": "quanzhanchengxuyuan"
   },
   {
     "key": "Mathematician",
@@ -1827,11 +1244,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "shu",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "shuxuejia"
   },
   {
     "key": "Regex Generator",
@@ -1842,13 +1255,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "zheng",
-      "ze",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "zhengzeshengchengqi"
   },
   {
     "key": "Time Travel Guide",
@@ -1863,10 +1270,7 @@
     "tags": [
       "interesting"
     ],
-    "pinyin": [
-      "jie",
-      "meng"
-    ]
+    "pinyin": "jiemeng"
   },
   {
     "key": "Talent Coach",
@@ -1877,12 +1281,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "ren",
-      "shi",
-      "zhu",
-      "guan"
-    ]
+    "pinyin": "renshizhuguan"
   },
   {
     "key": "R programming Interpreter",
@@ -1893,14 +1292,7 @@
     "tags": [
       "interpreter"
     ],
-    "pinyin": [
-      "R ",
-      "bian",
-      "cheng",
-      "jie",
-      "shi",
-      "qi"
-    ]
+    "pinyin": "R bianchengjieshiqi"
   },
   {
     "key": "StackOverflow Post",
@@ -1911,13 +1303,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "IT ",
-      "bian",
-      "cheng",
-      "wen",
-      "ti"
-    ]
+    "pinyin": "IT bianchengwenti"
   },
   {
     "key": "Emoji Translator",
@@ -1928,13 +1314,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "yu",
-      "yan",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "yuyanshengchengqi"
   },
   {
     "key": "PHP Interpreter",
@@ -1945,12 +1325,7 @@
     "tags": [
       "interpreter"
     ],
-    "pinyin": [
-      "PHP ",
-      "jie",
-      "shi",
-      "qi"
-    ]
+    "pinyin": "PHP jieshiqi"
   },
   {
     "key": "Emergency Response Professional",
@@ -1961,14 +1336,7 @@
     "tags": [
       "life"
     ],
-    "pinyin": [
-      "ying",
-      "ji",
-      "fan",
-      "ying",
-      "zhuan",
-      "jia"
-    ]
+    "pinyin": "yingjifanyingzhuanjia"
   },
   {
     "key": "Fill in the Blank Worksheets Generator",
@@ -1979,14 +1347,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "tian",
-      "kong",
-      "ti",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "tiankongtishengchengqi"
   },
   {
     "key": "Software Quality Assurance Tester",
@@ -1997,12 +1358,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "ruan",
-      "jian",
-      "ce",
-      "shi"
-    ]
+    "pinyin": "ruanjianceshi"
   },
   {
     "key": "Tic-Tac-Toe Game",
@@ -2013,11 +1369,7 @@
     "tags": [
       "games"
     ],
-    "pinyin": [
-      "jing",
-      "zi",
-      "qi"
-    ]
+    "pinyin": "jingziqi"
   },
   {
     "key": "Password Generator",
@@ -2028,13 +1380,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "mi",
-      "ma",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "mimashengchengqi"
   },
   {
     "key": "New Language Creator",
@@ -2045,13 +1391,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "yu",
-      "yan",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "yuyanshengchengqi"
   },
   {
     "key": "Web Browser",
@@ -2062,13 +1402,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "wen",
-      "ben",
-      "liu",
-      "lan",
-      "qi"
-    ]
+    "pinyin": "wenbenliulanqi"
   },
   {
     "key": "Senior Frontend Developer",
@@ -2079,12 +1413,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "qian",
-      "duan",
-      "kai",
-      "fa"
-    ]
+    "pinyin": "qianduankaifa"
   },
   {
     "key": "Solr Search Engine",
@@ -2095,13 +1424,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "sou",
-      "suo",
-      "yin",
-      "qing",
-      " Solr"
-    ]
+    "pinyin": "sousuoyinqing Solr"
   },
   {
     "key": "Startup Idea Generator",
@@ -2112,12 +1435,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "shang",
-      "ye",
-      "qi",
-      "hua"
-    ]
+    "pinyin": "shangyeqihua"
   },
   {
     "key": "Spongebob's Magic Conch Shell",
@@ -2128,17 +1446,7 @@
     "tags": [
       "interesting"
     ],
-    "pinyin": [
-      "hai",
-      "mian",
-      "bao",
-      "bao",
-      "de",
-      "shen",
-      "qi",
-      "hai",
-      "luo"
-    ]
+    "pinyin": "haimianbaobaodeshenqihailuo"
   },
   {
     "key": "Language Detector",
@@ -2149,13 +1457,7 @@
     "tags": [
       "language"
     ],
-    "pinyin": [
-      "yu",
-      "yan",
-      "shi",
-      "bie",
-      "qi"
-    ]
+    "pinyin": "yuyanshibieqi"
   },
   {
     "key": "Salesperson",
@@ -2166,11 +1468,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "xiao",
-      "shou",
-      "yuan"
-    ]
+    "pinyin": "xiaoshouyuan"
   },
   {
     "key": "Commit Message Generator",
@@ -2181,14 +1479,7 @@
     "tags": [
       "code"
     ],
-    "pinyin": [
-      "Commit ",
-      "xin",
-      "xi",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "Commit xinxishengchengqi"
   },
   {
     "key": "Chief Executive Officer",
@@ -2199,9 +1490,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "CEO"
-    ]
+    "pinyin": "CEO"
   },
   {
     "key": "Diagram Generator",
@@ -2212,13 +1501,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "tu",
-      "biao",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "tubiaoshengchengqi"
   },
   {
     "key": "Life Coach",
@@ -2229,16 +1512,7 @@
     "tags": [
       "life"
     ],
-    "pinyin": [
-      "fei",
-      "xiao",
-      "shuo",
-      "lei",
-      "shu",
-      "ji",
-      "zong",
-      "jie"
-    ]
+    "pinyin": "feixiaoshuoleishujizongjie"
   },
   {
     "key": "Speech-Language Pathologist (SLP)",
@@ -2249,14 +1523,7 @@
     "tags": [
       "doctor"
     ],
-    "pinyin": [
-      "yu",
-      "yan",
-      "bing",
-      "li",
-      "xue",
-      "jia"
-    ]
+    "pinyin": "yuyanbinglixuejia"
   },
   {
     "key": "Startup Tech Lawyer",
@@ -2267,14 +1534,7 @@
     "tags": [
       "professional"
     ],
-    "pinyin": [
-      "chuang",
-      "ye",
-      "ji",
-      "shu",
-      "lv",
-      "shi"
-    ]
+    "pinyin": "chuangyejishulvshi"
   },
   {
     "key": "Title Generator for written pieces",
@@ -2285,15 +1545,7 @@
     "tags": [
       "write"
     ],
-    "pinyin": [
-      "xie",
-      "zuo",
-      "biao",
-      "ti",
-      "sheng",
-      "cheng",
-      "qi"
-    ]
+    "pinyin": "xiezuobiaotishengchengqi"
   },
   {
     "key": "Product Manager",
@@ -2304,12 +1556,7 @@
     "tags": [
       "company"
     ],
-    "pinyin": [
-      "chan",
-      "pin",
-      "jing",
-      "li"
-    ]
+    "pinyin": "chanpinjingli"
   },
   {
     "key": "Drunk Person",
@@ -2320,15 +1567,7 @@
     "tags": [
       "text"
     ],
-    "pinyin": [
-      "sui",
-      "ji",
-      "hui",
-      "fu",
-      "：",
-      "zui",
-      "gui"
-    ]
+    "pinyin": "suijihuifu：zuigui"
   },
   {
     "key": "Mathematical History Teacher",
@@ -2339,13 +1578,7 @@
     "tags": [
       "teacher"
     ],
-    "pinyin": [
-      "shu",
-      "xue",
-      "shi",
-      "jiao",
-      "shi"
-    ]
+    "pinyin": "shuxueshijiaoshi"
   },
   {
     "key": "Song Recommender",
@@ -2356,12 +1589,7 @@
     "tags": [
       "music"
     ],
-    "pinyin": [
-      "ge",
-      "qu",
-      "tui",
-      "jian"
-    ]
+    "pinyin": "gequtuijian"
   },
   {
     "key": "Cover Letter",
@@ -2372,11 +1600,7 @@
     "tags": [
       "article"
     ],
-    "pinyin": [
-      "qiu",
-      "zhi",
-      "xin"
-    ]
+    "pinyin": "qiuzhixin"
   },
   {
     "key": "Technology Transferer",
@@ -2391,16 +1615,7 @@
     "tags": [
       "ai"
     ],
-    "pinyin": [
-      "wu",
-      "yue",
-      "shu",
-      "de",
-      " AI ",
-      "mo",
-      "xing",
-      " DAN"
-    ]
+    "pinyin": "wuyueshude AI moxing DAN"
   },
   {
     "key": "Gomoku player",
@@ -2419,15 +1634,7 @@
     "tags": [
       "philosophy"
     ],
-    "pinyin": [
-      "zong",
-      "jiao",
-      "：",
-      "fo",
-      "tuo",
-      "dui",
-      "hua"
-    ]
+    "pinyin": "zongjiao：fotuoduihua"
   },
   {
     "key": "Muslim imam",
@@ -2438,17 +1645,7 @@
     "tags": [
       "philosophy"
     ],
-    "pinyin": [
-      "zong",
-      "jiao",
-      "：",
-      "mu",
-      "si",
-      "lin",
-      "yi",
-      "ma",
-      "mu"
-    ]
+    "pinyin": "zongjiao：musilinyimamu"
   },
   {
     "key": "Chemical reactor",
@@ -2459,14 +1656,7 @@
     "tags": [
       "tool"
     ],
-    "pinyin": [
-      "hua",
-      "xue",
-      "fan",
-      "ying",
-      "rong",
-      "qi"
-    ]
+    "pinyin": "huaxuefanyingrongqi"
   },
   {
     "key": "Friend",
@@ -2477,12 +1667,7 @@
     "tags": [
       "social"
     ],
-    "pinyin": [
-      "hao",
-      "you",
-      "gu",
-      "li"
-    ]
+    "pinyin": "haoyouguli"
   },
   {
     "key": "Python Interpreter",
