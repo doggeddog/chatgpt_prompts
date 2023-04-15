@@ -12,16 +12,16 @@ Thanks to https://github.com/f/awesome-chatgpt-prompts
 
 type **'/'** and then type keyword to search.
 
-<img width="600" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot1.gif">
+<img width="400" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot2.gif">
 
 ## 中文提示语
 
 输入 **'#'** 展示提示语菜单，继续输入汉字或拼音检索。
 
-<img width="600" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot2.gif">
+<img width="400" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot1.gif">
 
 
 ## Installation
 
-点击链接安装
+点击链接安装  
 https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.user.js
