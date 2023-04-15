@@ -10,13 +10,13 @@ Thanks to https://github.com/f/awesome-chatgpt-prompts
 
 ## English prompts
 
-type **'/'** and then type keyword to search.
+type **'/'** show prompts menu and then type keyword to search.
 
 <img width="400" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot2.gif">
 
 ## 中文提示语
 
-输入 **'#'** 展示提示语菜单，继续输入汉字或拼音检索。
+输入 **'#'** 展示中文提示语菜单，继续输入汉字或拼音进行检索。
 
 <img width="400" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot1.gif">
 
