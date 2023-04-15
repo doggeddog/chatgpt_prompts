@@ -1911,36 +1911,6 @@ function flatten(arr) {
   }, []);
 }
 
-function build(descKey) {
-  const tagsSet = new Set(Users.map((prompt) => prompt.tags).flat());
-  let mainList = []
-  for (const tag of tagsSet) {
-    const subItems = Users
-      .filter((prompt) => prompt.tags.includes(tag))
-      .flatMap((prompt) => {
-        return [{
-          title: `${prompt.title}[en]`,
-          mark: `${prompt.remark}[en]`,
-          prompt: prompt["description"],
-        },
-        {
-          title: prompt.title,
-          mark: prompt.remark,
-          prompt: prompt["descn"],
-        }
-        ]
-      });
-    let category = {
-      title: tag,
-      mark: tag,
-      prompt: "{{prompt}}",
-      items: subItems
-    };
-    mainList.push(category);
-  }
-  return mainList;
-}
-
 function convertCSV() {
   const csvFilePath = './prompts.csv';
 

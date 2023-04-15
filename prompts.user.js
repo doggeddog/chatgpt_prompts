@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         ChatGPT prompts
-// @namespace    http://tampermonkey.net/
+// @name         ChatGPT Prompts
+// @namespace    https://github.com/doggeddog
 // @version      0.1
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
 // @resource     jsonData https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.json
 // @require      https://github.com/doggeddog/tribute/raw/master/dist/tribute.js
-// @match        https://waaao.com/*
+// @match        https://chat.openai.com/*
 // @match        http://127.0.0.1:*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_getResourceText
@@ -15,7 +15,6 @@
 // @run-at       document-end
 // ==/UserScript==
 
-var textArea
 var defaultData = JSON.parse(GM_getResourceText("jsonData"));
 var userData = [
   {
@@ -33,7 +32,7 @@ var userData = [
 userData.push(...defaultData);
 
 function load() {
-  textArea = document.getElementsByTagName("textarea")[0];
+  let textArea = document.getElementsByTagName("textarea")[0];
   var tribute = new Tribute({
     trigger: '/',
     values: userData,
@@ -47,7 +46,9 @@ function load() {
 
   var tributeCN = new Tribute({
     trigger: '#',
-    values: userData,
+    values: userData.filter(function (promp) {
+      return promp.prompt_cn;
+    }),
     selectTemplate: function (item) {
       if (typeof item === "undefined") return null;
       if (item.original.prompt_cn) {
@@ -58,17 +59,20 @@ function load() {
     },
     menuItemTemplate: function (item) {
       if (item.original.title) {
-        return item.original.title + " " + item.original.key;
+        return item.original.title;
       } else {
         return item.original.key;
       }
 
     },
     lookup: function (item, mentionText) {
-      if (item.pinyin && item.pinyin.length === 0) {
-        return item.key + " " + item.title;
+      if (!item.title) {
+        return item.key;
+      }
+      if (item.pinyin) {
+        return item.title + " " + item.pinyin;
       } else {
-        return item.key + " " + item.title + " " + item.pinyin;
+        return item.title;
       }
     },
     requireLeadingSpace: false
@@ -78,9 +82,28 @@ function load() {
 
 (function () {
   'use strict';
-  const myCss = GM_getResourceText("IMPORTED_CSS");
-  GM_addStyle(myCss);
+  const themeCSS = `
+  .dark .tribute-container ul {
+    background: #3e3f4b;
+  }
+  .dark .tribute-container li.highlight {
+    background: #5f6062;
+  }
+  `;
+  const importCSS = GM_getResourceText("IMPORTED_CSS");
+  GM_addStyle(importCSS);
+  GM_addStyle(themeCSS);
 
-  window.addEventListener("load", load, false);
+  let previousUrl = "";
+  const observer = new MutationObserver(() => {
+    if (window.location.href !== previousUrl) {
+      console.log(`URL changed from ${previousUrl} to ${window.location.href}`);
+      previousUrl = window.location.href;
+      setTimeout(() => { load(); }, 1000)
+    }
+  });
+  const config = { subtree: true, childList: true };
+  // start observing change
+  observer.observe(document, config);
 
 })();
