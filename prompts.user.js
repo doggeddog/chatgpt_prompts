@@ -1,4 +1,5 @@
 // ==UserScript==
+// @license      GPL
 // @name         ChatGPT Prompts
 // @namespace    https://github.com/doggeddog
 // @version      0.1
@@ -32,7 +33,12 @@ var userData = [
 userData.push(...defaultData);
 
 function load() {
-  let textArea = document.getElementsByTagName("textarea")[0];
+  let textArea = document.getElementsByTagName("textarea");
+  if (textArea.length === 0) {
+    return;
+  } else {
+    textArea = textArea[0];
+  }
   var tribute = new Tribute({
     trigger: '/',
     values: userData,
@@ -88,6 +94,12 @@ function load() {
   }
   .dark .tribute-container li.highlight {
     background: #5f6062;
+  }
+  div.flex.flex-col.items-center.text-sm > div:nth-last-child(2) {
+    min-height: calc(100vh - 14rem);
+  }
+  div.flex.flex-col.items-center.text-sm > div:nth-last-child(1) {
+      height: 8rem !important;
   }
   `;
   const importCSS = GM_getResourceText("IMPORTED_CSS");
