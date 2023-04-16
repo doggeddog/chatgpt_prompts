@@ -1,6 +1,6 @@
 # ChatGPT Prompts
 
-An easy to use tampermonkey script, help to search and input frequently used prompts.
+A user-friendly Tampermonkey script facilitates the searching and inputting of frequently utilized prompts.
 
 油猴脚本，用来快速查询、输入常用的提示语模板。
 
