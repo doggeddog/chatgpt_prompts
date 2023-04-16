@@ -16,7 +16,7 @@ type **'/'** show prompts menu and then type keyword to search.
 
 ## 中文提示语
 
-输入 **'#'** 展示中文提示语菜单，继续输入汉字或拼音进行检索。
+输入 **'#'** 展示中文提示语菜单，继续输入**汉语拼音** 或 **声母**进行检索。
 
 <img width="400" alt="Screenshot" src="https://github.com/doggeddog/chatgpt_prompts/raw/master/assets/screenshot1.gif">
 
