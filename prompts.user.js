@@ -1,8 +1,8 @@
 // ==UserScript==
-// @license      GPL
 // @name         ChatGPT Prompts
+// @license      GPL
 // @namespace    https://github.com/doggeddog
-// @version      0.1
+// @version      0.2.0
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
