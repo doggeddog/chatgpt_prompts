@@ -2,7 +2,7 @@
 // @name         ChatGPT Prompts
 // @license      GPL
 // @namespace    https://github.com/doggeddog
-// @version      0.2.0
+// @version      0.2.1
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
@@ -117,5 +117,7 @@ function load() {
   const config = { subtree: true, childList: true };
   // start observing change
   observer.observe(document, config);
-
+  setInterval(function() {
+    load();
+  }, 60 * 1000);
 })();
