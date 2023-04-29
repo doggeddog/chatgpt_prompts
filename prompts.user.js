@@ -39,6 +39,9 @@ function load() {
   } else {
     textArea = textArea[0];
   }
+  if (textArea.hasAttribute("data-tribute")) {
+    return;
+  }
   var tribute = new Tribute({
     trigger: '/',
     values: userData,
@@ -117,7 +120,7 @@ function load() {
   const config = { subtree: true, childList: true };
   // start observing change
   observer.observe(document, config);
-  setInterval(function() {
+  setInterval(function () {
     load();
   }, 60 * 1000);
 })();
