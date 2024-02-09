@@ -2,13 +2,16 @@
 // @name         ChatGPT Prompts
 // @license      GPL
 // @namespace    https://github.com/doggeddog
-// @version      0.2.3
+// @version      0.2.4
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
 // @resource     jsonData https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.json
 // @require      https://github.com/doggeddog/tribute/raw/master/dist/tribute.js
 // @match        https://chat.openai.com/*
+// @match        https://www.javatpoint.com/*
+// @match        https://waaao.com/*
+// @match        http://127.0.0.1:*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
@@ -38,54 +41,57 @@ function load() {
   } else {
     textArea = textArea[0];
   }
-  if (textArea.hasAttribute("data-tribute")) {
-    return;
-  }
-  var tribute = new Tribute({
-    trigger: '/',
-    values: userData,
-    selectTemplate: function (item) {
-      if (typeof item === "undefined") return null;
-      return item.original.prompt;
-    },
-    requireLeadingSpace: false
-  });
-  tribute.attach(textArea);
-
-  var tributeCN = new Tribute({
-    trigger: '#',
-    values: userData.filter(function (promp) {
-      return promp.prompt_cn;
-    }),
-    selectTemplate: function (item) {
-      if (typeof item === "undefined") return null;
-      if (item.original.prompt_cn) {
-        return item.original.prompt_cn;
-      } else {
+  if (!textArea.hasAttribute("en-tribute")) {
+    var tribute = new Tribute({
+      trigger: '/',
+      values: userData,
+      selectTemplate: function (item) {
+        if (typeof item === "undefined") return null;
         return item.original.prompt;
-      }
-    },
-    menuItemTemplate: function (item) {
-      if (item.original.title) {
-        return item.original.title;
-      } else {
-        return item.original.key;
-      }
+      },
+      requireLeadingSpace: false
+    });
+    tribute.attach(textArea);
+    textArea.setAttribute("en-tribute", true);
+  }
 
-    },
-    lookup: function (item, mentionText) {
-      if (!item.title) {
-        return item.key;
-      }
-      if (item.pinyin) {
-        return item.title + " " + item.pinyin;
-      } else {
-        return item.title;
-      }
-    },
-    requireLeadingSpace: false
-  });
-  tributeCN.attach(textArea);
+  if (!textArea.hasAttribute("cn-tribute")) {
+    var tributeCN = new Tribute({
+      trigger: '#',
+      values: userData.filter(function (promp) {
+        return promp.prompt_cn;
+      }),
+      selectTemplate: function (item) {
+        if (typeof item === "undefined") return null;
+        if (item.original.prompt_cn) {
+          return item.original.prompt_cn;
+        } else {
+          return item.original.prompt;
+        }
+      },
+      menuItemTemplate: function (item) {
+        if (item.original.title) {
+          return item.original.title;
+        } else {
+          return item.original.key;
+        }
+
+      },
+      lookup: function (item, mentionText) {
+        if (!item.title) {
+          return item.key;
+        }
+        if (item.pinyin) {
+          return item.title + " " + item.pinyin;
+        } else {
+          return item.title;
+        }
+      },
+      requireLeadingSpace: false
+    });
+    tributeCN.attach(textArea);
+    textArea.setAttribute("cn-tribute", true);
+  }
 }
 
 (function () {
@@ -97,13 +103,12 @@ function load() {
   .dark .tribute-container li.highlight {
     background: #5f6062;
   }
-  div.flex.flex-col.text-sm > div:nth-last-child(2) > div.text-base {
-    min-height: calc(100vh - 14rem);
+  .result-streaming {
+    min-height: 50vh;
   }
-  div.flex.flex-col.items-center.text-sm > div:nth-last-child(1) {
-      height: 8rem !important;
-  }
+
   `;
+  // min-height: calc(100vh - 20rem);
   const importCSS = GM_getResourceText("IMPORTED_CSS");
   GM_addStyle(importCSS);
   GM_addStyle(themeCSS);
@@ -119,7 +124,5 @@ function load() {
   const config = { subtree: true, childList: true };
   // start observing change
   observer.observe(document, config);
-  setInterval(function () {
-    load();
-  }, 60 * 1000);
+
 })();
