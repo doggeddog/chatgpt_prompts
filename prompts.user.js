@@ -9,9 +9,6 @@
 // @resource     jsonData https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.json
 // @require      https://github.com/doggeddog/tribute/raw/master/dist/tribute.js
 // @match        https://chat.openai.com/*
-// @match        https://www.javatpoint.com/*
-// @match        https://waaao.com/*
-// @match        http://127.0.0.1:*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
@@ -108,7 +105,6 @@ function load() {
   }
 
   `;
-  // min-height: calc(100vh - 20rem);
   const importCSS = GM_getResourceText("IMPORTED_CSS");
   GM_addStyle(importCSS);
   GM_addStyle(themeCSS);
