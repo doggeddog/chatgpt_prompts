@@ -2,7 +2,7 @@
 // @name         ChatGPT Prompts
 // @license      GPL
 // @namespace    https://github.com/doggeddog
-// @version      0.2.3
+// @version      0.2.5
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
@@ -97,11 +97,8 @@ function load() {
   .dark .tribute-container li.highlight {
     background: #5f6062;
   }
-  div.flex.flex-col.text-sm > div:nth-last-child(2) > div.text-base {
-    min-height: calc(100vh - 14rem);
-  }
-  div.flex.flex-col.items-center.text-sm > div:nth-last-child(1) {
-      height: 8rem !important;
+  .result-streaming {
+    min-height: 50vh;
   }
   `;
   const importCSS = GM_getResourceText("IMPORTED_CSS");
