@@ -2,13 +2,14 @@
 // @name         ChatGPT Prompts
 // @license      GPL
 // @namespace    https://github.com/doggeddog
-// @version      0.2.5
+// @version      0.2.6
 // @description  awesome chatGPT prompts
 // @author       doggeddog
 // @resource     IMPORTED_CSS https://github.com/doggeddog/tribute/raw/master/dist/tribute.css
 // @resource     jsonData https://github.com/doggeddog/chatgpt_prompts/raw/master/prompts.json
 // @require      https://github.com/doggeddog/tribute/raw/master/dist/tribute.js
 // @match        https://chat.openai.com/*
+// @match        https://chatgpt.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
